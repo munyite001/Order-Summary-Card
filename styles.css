@@ -114,6 +114,7 @@ main{
 }
 #plan-heading{
     color: var(--dark-blue);
+    font-weight: var(--font-900);
 }
 
 #change{
