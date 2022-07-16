@@ -170,9 +170,14 @@ main{
 @media(min-width: 700px){
 main{
     background-image: url(./images/pattern-background-desktop.svg);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 .container{
     margin: auto;
+    max-width: 400px;
 }
 
 }
